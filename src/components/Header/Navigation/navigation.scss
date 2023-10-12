@@ -1,0 +1,8 @@
+.navigation{
+    &__item{
+        color: black;
+        &.active{
+            color: orange;
+        }
+    }
+}
